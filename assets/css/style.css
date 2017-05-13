@@ -1,0 +1,11 @@
+.head {
+	text-align: center;
+	color: red;
+}
+
+#remaining {
+	width: 100px;
+	height: 80px;
+	color: red;
+	background-color: black;
+}
